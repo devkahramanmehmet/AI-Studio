@@ -1,5 +1,7 @@
 This file is an interactive HTML web page for "IT Technician Flipcards," designed as a presentation tool or study aid about the role of an Interim IT Technician. Here’s a detailed analysis:
 
+Gemini[https://g.co/gemini/share/a1fe87f2076f]
+
 ## 1. Structure & Technologies
 
 - **HTML & JavaScript:** The file is a standalone HTML document using embedded JavaScript for interactivity.
